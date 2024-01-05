@@ -1,4 +1,4 @@
-import 'package:disply_details_in_cards/listscreenoriginal.dart';
+import 'package:disply_details_in_cards/listdisplay_and_pull_to_refresh/listscreenoriginal.dart';
 import 'package:flutter/material.dart';
 
 void main() {
